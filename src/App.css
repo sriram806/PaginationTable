@@ -1,0 +1,90 @@
+.card {
+    background-color: #ffffff;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    padding: 2rem;
+    margin-top: 2rem;
+    width: 100%;
+    height: 100%;
+  }
+  
+  h1 {
+    font-size: 2rem;
+    color: #333;
+    margin-bottom: 1.5rem;
+    font-weight: 600;
+  }
+  
+  .flex {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .gap-2 {
+    gap: 0.5rem;
+  }
+  
+  .justify-content-between {
+    justify-content: space-between;
+  }
+  
+  .align-items-center {
+    align-items: center;
+  }
+  
+  .m-0 {
+    margin: 0;
+  }
+  
+  .p-button-rounded {
+    border-radius: 50%;
+  }
+  
+  .pi {
+    font-size: 1.2rem;
+  }
+  
+  .pi-search {
+    margin-right: 0.5rem;
+  }
+  
+  .input-field {
+    width: 200px;
+  }
+  
+  .custom-header {
+    background-color: #f7f7f7;
+    padding: 0.5rem 1rem;
+    font-weight: 600;
+  }
+  
+  .custom-body {
+    padding: 1rem;
+  }
+  
+  .data-table {
+    width: 100%;
+  }
+  
+  .p-datatable .p-column-header {
+    background-color: #f0f0f0;
+  }
+  
+  .p-datatable .p-column-filter {
+    padding-left: 1rem;
+  }
+  
+  .p-datatable .p-column-filter .p-inputtext {
+    width: 100%;
+  }
+  
+  .p-datatable-header {
+    background-color: #f0f0f0;
+    padding: 1rem;
+  }
+  
+  .p-datatable-footer {
+    background-color: #f0f0f0;
+    padding: 1rem;
+  }
+  
